@@ -20,6 +20,7 @@
 		D2F9B9B3252D71ED0092DD87 /* Cairo-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D2F9B9AD252D71ED0092DD87 /* Cairo-Light.ttf */; };
 		D2F9B9B4252D71ED0092DD87 /* Cairo-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D2F9B9AE252D71ED0092DD87 /* Cairo-Black.ttf */; };
 		D2F9B9B5252D71ED0092DD87 /* Cairo-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D2F9B9AF252D71ED0092DD87 /* Cairo-ExtraLight.ttf */; };
+		F7D17BF8252DFA44008B85BF /* NameVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7D17BF7252DFA44008B85BF /* NameVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		D2F9B9AD252D71ED0092DD87 /* Cairo-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cairo-Light.ttf"; sourceTree = "<group>"; };
 		D2F9B9AE252D71ED0092DD87 /* Cairo-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cairo-Black.ttf"; sourceTree = "<group>"; };
 		D2F9B9AF252D71ED0092DD87 /* Cairo-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cairo-ExtraLight.ttf"; sourceTree = "<group>"; };
+		F7D17BF7252DFA44008B85BF /* NameVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				046D4D6F249465AC00120869 /* AppDelegate.swift */,
 				046D4D71249465AC00120869 /* SceneDelegate.swift */,
 				046D4D73249465AC00120869 /* ViewController.swift */,
+				F7D17BF7252DFA44008B85BF /* NameVC.swift */,
 				046D4D75249465AC00120869 /* Main.storyboard */,
 				046D4D78249465AE00120869 /* Assets.xcassets */,
 				046D4D7A249465AE00120869 /* LaunchScreen.storyboard */,
@@ -176,6 +179,7 @@
 				046D4D74249465AC00120869 /* ViewController.swift in Sources */,
 				046D4D70249465AC00120869 /* AppDelegate.swift in Sources */,
 				046D4D72249465AC00120869 /* SceneDelegate.swift in Sources */,
+				F7D17BF8252DFA44008B85BF /* NameVC.swift in Sources */,
 				D2F9B9A6252D71570092DD87 /* IBElements.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
